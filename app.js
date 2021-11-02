@@ -6,7 +6,6 @@ const quotes = [
     { quote: 'If you’re good at something, never do it for free.', author: 'The Joker, The Dark Knight', image: 'https://i.ytimg.com/vi/xGcfBRkJSWQ/maxresdefault.jpg' },
     { quote: 'Yes, father. I shall become a bat.', author: 'Bruce Wayne/Batman, Batman: Year One', image: 'https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/12/batman-christian-bale-featured.jpg'},
 ]
-console.log(quotes);
 
 const app = Vue.createApp({
 
